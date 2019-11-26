@@ -1,0 +1,65 @@
+title {
+font: oblique bold 400% cursive;
+font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+color: #000000;
+text-aling: center;
+}
+
+pageFooter {
+font: oblique bold 120% monospace
+font-family: "Lucida Sanz Unicode";
+color:  #ff0000;
+text-align: justify;
+}
+
+body {
+/*background-image: url(Ozzy.jpg);*/
+}
+
+p {
+font: small-caps 100%/200% serif;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color: #ff0000;
+text-aling: justify;
+}
+
+h1 {
+font: oblique bold 400% cursive;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color: #ff0000;
+text-aling: center;
+}
+
+section{
+position:absolute;
+left:162px;
+top:150px;
+width:680px;
+padding:10px;
+height:400px;
+border-top-left-radius:38px;
+border-top-right-radius:0px;
+border-bottom-left-radius:0px;
+border-bottom-right-radius:38px;
+border:3px solid black;
+}
+
+#inicio{
+	position:absolute;
+	left:6px;
+    top:6px;
+    width:680px;
+    /*display:none;*/
+}
+
+#sobrenosotros{
+	position:absolute;
+	left:6px;
+    top:6px;
+    width:680px;
+    display:none;
+}
+
+.amarillo{
+color:#C7F400;
+}
