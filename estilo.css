@@ -45,8 +45,7 @@ border:3px solid rgb(114, 62, 62);
 }
 
 #inicio{
-	position:absolute;
-	left:6px;
+    background-color: aqua;
     top:6px;
     width:690px;
     /*display:none;*/
